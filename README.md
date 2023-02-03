@@ -1,3 +1,7 @@
-# Acciojob Assignment Solution Template Repo
+# Intro to Git
+Display the text  <b>"My intro to Git and colab"</b> on the screen
 
-# Instructions 
+###  Instructions
+
+- The `title` for the html should be "git".
+- Write the text inside a `p` tag.
